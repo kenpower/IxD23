@@ -1,3 +1,16 @@
 h1{
   color: red;
 }
+
+body{
+  display: flex;
+}
+
+#nav a{
+  background-color: yellow;
+  
+}
+
+#nav{
+  min-width: 200px;
+}
